@@ -1,9 +1,13 @@
 🛠️ Tecnologias utilizadas:
 
 Flutter & Dart
+
 Firebase (Authentication, Firestore, Storage, etc.)
+
 Git & GitHub
+
 Clean Architecture
+
 Consumo de APIs REST
 
 🌱 Em aprendizado:
